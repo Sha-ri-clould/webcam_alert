@@ -1,4 +1,4 @@
-# 🕵️‍♀️ Motion Detection Alert System with Email Notification 📸📧
+# Motion Detection Alert System with Email Notification
 
 A real-time motion detection project using **OpenCV** that captures images when motion is detected via webcam, and sends an **email alert** with the captured image. It also uses threading to keep the system smooth and automatically clean up image files.
 
