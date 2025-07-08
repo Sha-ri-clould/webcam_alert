@@ -23,3 +23,5 @@ A real-time motion detection project using **OpenCV** that captures images when 
 - Create images folder.
 - Run the app.
 
+## Output
+https://github.com/Sha-ri-clould/webcam_alert/issues/1#issue-3211043746
